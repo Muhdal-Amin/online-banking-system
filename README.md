@@ -1,4 +1,3 @@
-````markdown
 # Online Banking System in C
 
 The **Online Banking System** is a command-line application designed to simulate the core functionalities of a banking system. This project is built in C, demonstrating efficient handling of user accounts, transactions, and account management in a secure and interactive manner. The system supports multiple banking operations like deposits, withdrawals, balance checks, and account creation, all while ensuring robust error handling and data integrity.
@@ -41,11 +40,11 @@ The **Online Banking System** is a command-line application designed to simulate
 To set up and run the **Online Banking System**, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Muhdal-Amin/online-banking-system.git
    cd online-banking-system
    ```
-````
 
 2. Compile the source code:
 
